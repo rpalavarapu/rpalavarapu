@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:4B0082&height=220&section=header&text=Rishi%20Palavarapu&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-# 💻 Software Engineer | AI Enthusiast | Full Stack Developer
+# 💻 Software Engineer | AI Enthusiast | Developer
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rishi-palavarapu-11a5912a4/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/rishipalavarapu">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:rishi.palavarapu@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -79,7 +79,7 @@ Currently Working On:
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpalavarapu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -98,15 +98,15 @@ Currently Working On:
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/rishi-palavarapu-11a5912a4/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rishi.palavarapu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/rishipalavarapu">
 <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
@@ -117,6 +117,6 @@ Currently Working On:
 
 ### ⚡ “Code. Learn. Build. Repeat.”
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=rpalavarapu&style=for-the-badge&color=blueviolet"/>
 
 </div>
