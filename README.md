@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rpalavarapu/rpalavarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rishi Palavarapu
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Rishi Palavarapu
+Role: Software Engineer
+Learning: System Design & DSA
+Interested In: AI, ML, Full Stack
