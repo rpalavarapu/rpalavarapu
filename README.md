@@ -36,17 +36,12 @@ Interested In:
   - Machine Learning
   - Neural Networks
   - Full Stack Development
-  - High Performance Applications
 
 Currently Working On:
-  - Android App Development
+  - Development
   - DSA & Competitive Programming
-  - Backend Development
+  - Quantum Computing
 
-Principles:
-  - Simplicity
-  - Scalability
-  - Performance
 ```
 
 ---
@@ -56,13 +51,13 @@ Principles:
 <div align="center">
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,qiskit,html"/>
 
 ### ⚡ Frameworks & Technologies
-<img src="https://skillicons.dev/icons?i=nodejs,react,firebase,flutter"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,firebase,Streamlit"/>
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
 
 </div>
 
@@ -72,9 +67,9 @@ Principles:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rpalavarapu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpalavarapu&theme=tokyonight&hide_border=true"/>
 
 </div>
 
